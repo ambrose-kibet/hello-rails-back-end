@@ -53,7 +53,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+## Fron-End <a name="built-with"></a>
+
+[hello-react-front-end](some link)
 
 <!-- GETTING STARTED -->
 
@@ -73,6 +75,10 @@ Clone this repository to your desired folder.
 cd my-folder
 git clone https://github.com/ambrose-kibet/hello-rails-back-end.git
 ```
+
+#### Fron-End <a name="built-with"></a>
+
+[hello-react-front-end](some link)
 
 ### Install
 
