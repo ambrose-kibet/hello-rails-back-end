@@ -53,9 +53,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Fron-End <a name="built-with"></a>
 
-[hello-react-front-end](some link)
 
 <!-- GETTING STARTED -->
 
